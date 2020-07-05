@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:icon="@drawable/ic_sort_24">
+
+    <item
+        android:id="@+id/Sort_Date"
+        android:title="Sort Date" />
+    <item
+        android:id="@+id/Sort_Likes"
+        android:title="Sort Likes" />
+    <item
+        android:id="@+id/Sort_Views"
+        android:title="Sort Views" />
+    <item
+        android:id="@+id/Sort_Share"
+        android:title="Sort Share" />
+</menu>
